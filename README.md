@@ -3,79 +3,84 @@ Repository containing a program used for playback and compilation of the Bleach:
 
 
 # Table of Contents
-1. [Overview](overview)
-2. [Complete Track list (1-112)](#numbered-track-list-with-filenames)
-3. [Character themes](#character-themes)
-4. [Opening Movies](#opening-movies)
-5. [Menu Music](#menus-music)
-6. [Battle](#battle)
-7. [Ambient](#ambient)
-8. [Lyrical](#lyrical)
+- [Overview](overview)
+- [Complete Track list (1-112)](#track-list-with-filenames)
+- By Category
+	- [Character themes](#character-themes)
+	- [Opening Movies](#opening-movies)
+	- [Menu Music](#menus-music)
+	- [Battle](#battle)
+	- [Ambient](#ambient)
+	- [Vocal](#vocal)
 
 # Overview
 
 > __the program requires you own a copy of the game on pc or at the very least have a copy of the wem files as it makes active use of said files for playback/compilation__
 
-> I have designed the program with 2 goals in mind, 
-    1 - to allow for playback of the games music in an endless loop until prompted otherwise (as like in the ingame audio player) and 2 - to allow the user to compile the song of their choice into usable FLAC, MP3, WAV, OGG, and AAC files, for their own use.
+> __AS OF 2025/06/09 THIS PROGRAM IS IN THE VERY EARLY STAGES OF DEVELOPMENT, DON'T EXPECT ANYTHING SOON. I am still in the process of cataloging all the songs and their files as can be seen in the track list below__
 
-> Why bother you may ask, its simple, the in game tracks are seperated into two different files making it easy for playback in game when looping during gameplay but not so easy for you or me to grab them and simply listen to them whenever we want. This program makes it possible to either play the songs without opening the Game or to take those two audio files and create a finished audio file that you then import into your favorite music service and listen to on the go
+This program is being designed with 2 goals in mind, 
+    1 - to allow for playback of the games music in an endless loop until prompted otherwise (as like in the ingame audio player) and 
+	2 - to allow the user to compile the song of their choice into usable FLAC, MP3, WAV, OGG, and AAC files, for their own use.
 
-> when looking to playback or compile a certain track from the game, you must either use the designated track name or number, to make this easier you can find below a list of the tracks below broken down by category or simply by track number and name.
+Why bother you may ask, its simple, the in game tracks are seperated into two different files making it easy for playback in game when looping during gameplay but not so easy for you or me to grab them and simply listen to them whenever we want. This program makes it possible to either play the songs without opening the Game or to take those two audio files and create a finished audio file that you then import into your favorite music service and listen to on the go
+
+when looking to playback or compile a certain track from the game, you must either use the designated track name or number, to make this easier you can find below a list of the tracks below broken down by category or simply by track number and name.
 
 
-# Numbered Track-list with filenames
+# Track-list with filenames
 
 ## Track1 - Glinting Getsuga  
-- 58194767.wem + 678186412.wem loop
+- 58194767.wem + 678186412.wem
 
 ## Track2 - A Hollow Mask
-- 331768726.wem + 664883598.wem loop
+- 331768726.wem + 664883598.wem
 
 ## Track3 - Protect
-- 997327966.wem + 734934501.wem loop
+- 997327966.wem + 734934501.wem
 
 ## Track4 - Volley
-- 577787257.wem + 29705507.wem loop
+- 577787257.wem + 29705507.wem
 
 ## Track5 - To Lose it All  
 - 905037208.wem + 997541893.wem
 
 ## Track6 - Ataque del Diablo  
-- 
+- 128190409.wem + 204114293.wem
 
 ## Track7 - Checkmate  
-- 
+- 672738703.wem + 94254104.wem
 
 ## Track8 - Instant War Cry  
-- 794395257.wem + 516566946.wem loop
+- 794395257.wem + 516566946.wem
 
 ## Track9 - Kneel Before Hihio
-- 
+- 763498517.wem + 214658376.wem
 
 ## Track10 - Shirayuki in White
-- 
+- 206662015.wem + 552187490.wem
 
 ## Track11 - One Designed to Take Lives
-- 
+- 415673160.wem + 855057028.wem
+	- loop should begin at aproximatly 1:20 on 855057028.wem
 
 ## Track12 - Lively Inflorescence
-- 
+- 420310883.wem + 951765918.wem
 
 ## Track13 - Unforgivable Sin
-- 
+- 822359095.wem + 230468747.wem
 
 ## Track14 - Games of Death
-- 
+- 538709413.wem + 787308898.wem
 
 ## Track15 - Descend Unto Hell
-- 
+- 426134974.wem + 381813263.wem
 
 ## Track16 - Stinger 
-- 620910022.wem + 47733848.wem loop
+- 620910022.wem + 47733848.wem
 
 ## Track17 - Slithering at Mach One
-- 
+- 772036938.wem + 769005299.wem
 
 ## Track18 - fuse
 - 
@@ -135,7 +140,7 @@ Repository containing a program used for playback and compilation of the Bleach:
 - 
 
 ## Track37 - Crimson Sky  
-- 841684204.wem + 913131317.wem loop
+- 841684204.wem + 913131317.wem
 
 ## Track38 - Bring Down Thine Blade
 - 
@@ -317,7 +322,7 @@ Repository containing a program used for playback and compilation of the Bleach:
 - 
 
 ## Track97 - Rebirth
-- 645147669.wem + 766797525.wem loop
+- 645147669.wem + 766797525.wem
 	- composed by *Takeharu Ishimoto*
 	- performed by *The BONZ*
 
@@ -364,7 +369,7 @@ Repository containing a program used for playback and compilation of the Bleach:
 - 794026191.wem
 
 ## Track112 - Die for Love (Instrumental)  
-- 803451434.wem + 930276299.wem loop
+- 803451434.wem + 930276299.wem
 
 
 
@@ -463,7 +468,7 @@ Repository containing a program used for playback and compilation of the Bleach:
 	- Awakening = [Track31](#track31---la-campanella)
 	- ReAwakening = [Track32](#track32---existence-of-heart)
 
-- **Urahara**  
+- **Urahara Kisuke**  
 	- Awakening = [Track7](#track7---checkmate)
 
 - **Uryu**  
@@ -626,7 +631,7 @@ Repository containing a program used for playback and compilation of the Bleach:
 
 - [Track112](#track112---die-for-love-instrumental)
 
-# Lyrical
+# Vocal
 
 - [Track56](#track56---one-shot) 
 
