@@ -15,7 +15,7 @@ Repository containing a program used for playback and compilation of the Bleach:
 
 # Overview
 
-> __the program requires you own a copy of the game on pc or at the very least have a copy of the wem files as it makes active use of said files for playback/compilation__
+> __the program will require your own copy of the game on pc or at the very least have a copy of the wem files as it makes active use of said files for playback/compilation__
 
 > __AS OF 2025/06/09 THIS PROGRAM IS IN THE VERY EARLY STAGES OF DEVELOPMENT, DON'T EXPECT ANYTHING SOON. I am still in the process of cataloging all the songs and their files as can be seen in the track list below__
 
