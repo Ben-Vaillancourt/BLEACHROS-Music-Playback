@@ -4,7 +4,10 @@ Repository containing a program used for playback and compilation of the Bleach:
 
 # Table of Contents
 - [Overview](#overview)
-- [Complete Track list (1-113)](#track-list-with-filenames)
+- [Complete Track list ](#track-list-with-filenames)
+	- [Main Tracklist (1-113)](#main-tracklist)
+	- [additional Tracks not included in games menu](#additional-tracks)
+
 - By Category
 	- [Character themes](#character-themes)
 	- [Opening Movies](#opening-movies)
@@ -30,98 +33,100 @@ when looking to playback or compile a certain track from the game, you must eith
 
 # Track-list with filenames
 
-## Track1 - Glinting Getsuga  
+## Main Tracklist
+
+### Track1 - Glinting Getsuga  
 - 58194767.wem + 678186412.wem
 
-## Track2 - A Hollow Mask
+### Track2 - A Hollow Mask
 - 331768726.wem + 664883598.wem
 
-## Track3 - Protect
+### Track3 - Protect
 - 997327966.wem + 734934501.wem
 
-## Track4 - Volley
+### Track4 - Volley
 - 577787257.wem + 29705507.wem
 
-## Track5 - To Lose it All  
+### Track5 - To Lose it All  
 - 905037208.wem + 997541893.wem
 
-## Track6 - Ataque del Diablo  
+### Track6 - Ataque del Diablo  
 - 128190409.wem + 204114293.wem
 
-## Track7 - Checkmate  
+### Track7 - Checkmate  
 - 672738703.wem + 94254104.wem
 
-## Track8 - Instant War Cry  
+### Track8 - Instant War Cry  
 - 794395257.wem + 516566946.wem
 
-## Track9 - Kneel Before Hihio
+### Track9 - Kneel Before Hihio
 - 763498517.wem + 214658376.wem
 
-## Track10 - Shirayuki in White
+### Track10 - Shirayuki in White
 - 206662015.wem + 552187490.wem
 
-## Track11 - One Designed to Take Lives
+### Track11 - One Designed to Take Lives
 - 415673160.wem + 855057028.wem
 	- loop should begin at aproximatly 1:20 on 855057028.wem
 
-## Track12 - Lively Inflorescence
+### Track12 - Lively Inflorescence
 - 420310883.wem + 951765918.wem
 
-## Track13 - Unforgivable Sin
+### Track13 - Unforgivable Sin
 - 822359095.wem + 230468747.wem
 
-## Track14 - Games of Death
+### Track14 - Games of Death
 - 538709413.wem + 787308898.wem
 
-## Track15 - Descend Unto Hell
+### Track15 - Descend Unto Hell
 - 426134974.wem + 381813263.wem
 
-## Track16 - Stinger 
+### Track16 - Stinger 
 - 620910022.wem + 47733848.wem
 
-## Track17 - Slithering at Mach One
+### Track17 - Slithering at Mach One
 - 772036938.wem + 769005299.wem
 
-## Track18 - fuse
+### Track18 - fuse
 - 
 
-## Track19 - Stand at The Top
+### Track19 - Stand at The Top
 - 
 
-## Track20 - Scatter, Senbonzakura
+### Track20 - Scatter, Senbonzakura
 - 
 
-## Track21 - Path to Devotion
+### Track21 - Path to Devotion
 - 
 
-## Track22 - Forbidden Games
+### Track22 - Forbidden Games
 - 
 
-## Track23 - Enma Korogi
+### Track23 - Enma Korogi
 - 
 
-## Track24 - Soaring Ice Dragon
+### Track24 - Soaring Ice Dragon
 - 
 
-## Track25 - Kenpachi  
+### Track25 - Kenpachi  
 - 
 
-## Track26 - Mid-dream
+### Track26 - Mid-dream
 - 
 
-## Track27 - Rage Through the Seas
+### Track27 - Rage Through the Seas
 - 
 
-## Track28 - citsidaS
+### Track28 - citsidaS
 - 
 
-## Track29 - Unto the Lonely Horizon
+### Track29 - Unto the Lonely Horizon
 - 
 
-## Track30 - World Without Sacrifice
+### Track30 - World Without Sacrifice
 - 
 
-## Track31 - La Campanella
+### Track31 - La Campanella
 - 
 
 ## Track32 - Existence of HEART
@@ -130,254 +135,260 @@ when looking to playback or compile a certain track from the game, you must eith
 ## Track33 - Towering Santa Teresa
 - 
 
-## Track34 - King of Beasts
+### Track34 - King of Beasts
 - 
 
-## Track35 - Unapologetic Perfectionist
+### Track35 - Unapologetic Perfectionist
 - 
 
-## Track36 - Gratitude
+### Track36 - Gratitude
 - 
 
-## Track37 - Crimson Sky  
+### Track37 - Crimson Sky  
 - 841684204.wem + 913131317.wem
 
-## Track38 - Bring Down Thine Blade
+### Track38 - Bring Down Thine Blade
 - 
 
-## Track39 - On Thunderous Lyric
+### Track39 - On Thunderous Lyric
 - 
 
-## Track40 - Lesson One
+### Track40 - Lesson One
 - 
 
-## Track41 - Reforged
+### Track41 - Reforged
 - 
 
-## Track42 - The Fifth Tower
+### Track42 - The Fifth Tower
 - 
 
-## Track43 - Adiós, Privaron Espada
+### Track43 - Adiós, Privaron Espada
 - 
 
-## Track44 - Canopy Deathmatch
+### Track44 - Canopy Deathmatch
 - 
 
-## Track45 - Once upon a night
+### Track45 - Once upon a night
 - 
 
-## Track46 - That Which Stands in Our Way
+### Track46 - That Which Stands in Our Way
 - 
 
-## Track47 - Thrill-seeking Reaper
+### Track47 - Thrill-seeking Reaper
 - 
 
-## Track48 - Countdown to Demise
+### Track48 - Countdown to Demise
 - 
 
-## Track49 - Main Street Bumpin'
+### Track49 - Main Street Bumpin'
 - 
 
-## Track50 - In Defense of Karakura Town
+### Track50 - In Defense of Karakura Town
 - 
 
-## Track51 - Inferno
+### Track51 - Inferno
 - 
 
-## Track52 - The Final Battle
+### Track52 - The Final Battle
 - 
 
-## Track53 - Killing Another Me
+### Track53 - Killing Another Me
 - 
 
-## Track54 - Wheel of Fate
+### Track54 - Wheel of Fate
 - 
 
-## Track55 - Through the Limit
+### Track55 - Through the Limit
 - 
 
-## Track56 - One Shot
+### Track56 - One Shot
 - 
 
-## Track57 - Absolution
+### Track57 - Absolution
 - 
 	- composed by *Takeharu Ishimoto*
 	- performed by *The BONZ*
 
-## Track58 - Moonlight Strategy
+### Track58 - Moonlight Strategy
 - 
 
-## Track59 - Karakura First High School
+### Track59 - Karakura First High School
 - 
 
-## Track60 - Urahara's Shop (Exit)
+### Track60 - Urahara's Shop (Exit)
 - 
 
-## Track61 - Karakura Days
+### Track61 - Karakura Days
 - 
 
-## Track62 - Familiar Lullaby
+### Track62 - Familiar Lullaby
 - 
 
-## Track63 - Quiet Afternoons
+### Track63 - Quiet Afternoons
 - 
 
-## Track64 - Blowin' in the Sand
+### Track64 - Blowin' in the Sand
 - 
 
-## Track65 - Welcome to Las Noches
+### Track65 - Welcome to Las Noches
 - 
 
-## Track66 - Death Sentence
+### Track66 - Death Sentence
 - 
 
-## Track67 - City of Reapers
+### Track67 - City of Reapers
 - 
 
-## Track68 - Empty Shell
+### Track68 - Empty Shell
 - 
 
-## Track69 - Results of Visored Training
+### Track69 - Results of Visored Training
 - 
 
-## Track70 - Forbidden Boundary
+### Track70 - Forbidden Boundary
 - 
 
-## Track71 - Glistening Strength
+### Track71 - Glistening Strength
 - 
 
-## Track72 - Burgeoning Memory
+### Track72 - Burgeoning Memory
 - 
 
-## Track73 - Tales Told, Tales spun
+### Track73 - Tales Told, Tales spun
 - 
 
-## Track74 - Forward!
+### Track74 - Forward!
 - 
 
-## Track75 - Shaken Hearts
+### Track75 - Shaken Hearts
 - 
 
-## Track76 - Tension & Tension
+### Track76 - Tension & Tension
 - 
 
-## Track77 - Suspicion
+### Track77 - Suspicion
 - 
 
-## Track78 - Release
+### Track78 - Release
 - 
 
-## Track79 - Unending Conflict
+### Track79 - Unending Conflict
 - 
 
-## Track80 - Crossroads of Emotion
+### Track80 - Crossroads of Emotion
 - 
 
-## Track81 - Emergent Commination
+### Track81 - Emergent Commination
 - 
 
-## Track82 - Harbinger
+### Track82 - Harbinger
 - 
 
-## Track83 - Strength, Unbound
+### Track83 - Strength, Unbound
 - 
 
-## Track84 - Pouring Sadness
+### Track84 - Pouring Sadness
 - 
 
-## Track85 - Requiem for the Lost
+### Track85 - Requiem for the Lost
 - 
 
-## Track86 - The Ashes of Victory
+### Track86 - The Ashes of Victory
 - 
 
-## Track87 - Revitalize
+### Track87 - Revitalize
 - 
 
-## Track88 - Before you Say Goodbye
+### Track88 - Before you Say Goodbye
 - 
 
-## Track89 - Corruption in Darkness
+### Track89 - Corruption in Darkness
 - 
 
-## Track90 - Perish All Hope
+### Track90 - Perish All Hope
 - 
 
-## Track91 - Wager of the Soul
+### Track91 - Wager of the Soul
 - 
 
-## Track92 - YOUNG, ALIVE, IN RHYTHM
+### Track92 - YOUNG, ALIVE, IN RHYTHM
 - 
 
-## Track93 - Fleeting Tranquility
+### Track93 - Fleeting Tranquility
 - 
 
-## Track94 - Crossing Blades
+### Track94 - Crossing Blades
 - 
 
-## Track95 - Touch and Go
+### Track95 - Touch and Go
 - 
 
-## Track96 - Reminiscing
+### Track96 - Reminiscing
 - 
 
-## Track97 - Rebirth
+### Track97 - Rebirth
 - 645147669.wem + 766797525.wem
 	- composed by *Takeharu Ishimoto*
 	- performed by *The BONZ*
 
-## Track98 - Soul's Choice
+### Track98 - Soul's Choice
 - 
 
-## Track99 - March unto Tomorrow
+### Track99 - March unto Tomorrow
 - 
 
-## Track100 - Battle Preparations
+### Track100 - Battle Preparations
 - 
 
-## Track101 - Taking on risk
+### Track101 - Taking on risk
 - 
 
-## Track102 - Urahara's Shop (Entrance)
+### Track102 - Urahara's Shop (Entrance)
 - 
 
-## Track103 - Never Stop Training
+### Track103 - Never Stop Training
 - 
 
-## Track104 - Perusal
+### Track104 - Perusal
 - 
 
-## Track105 - Decisions
+### Track105 - Decisions
 - 
 
-## Track106 - Options  
+### Track106 - Options  
 - 119817980.wem + 152460273.wem
 	- cut at 3:54 on 152460273.wem for loop, fades out otherwise
 
-## Track107 - Chasing Lights  
+### Track107 - Chasing Lights  
 - 658051446.wem
 
-## Track108 - Breakthrough  
+### Track108 - Breakthrough  
 - 226916285.wem
 
-## Track109 - Credits
+### Track109 - Credits
 - 
 
-## Track110 -  Last Credits
+### Track110 -  Last Credits
 - 
 
-## Track111 - Die for Love  
+### Track111 - Die for Love  
 - 794026191.wem
 
-## Track112 - Die for Love (Instrumental)  
+### Track112 - Die for Love (Instrumental)  
 - 803451434.wem + 930276299.wem
 
-## Track113 - Save You 
+### Track113 - Save You 
 - 1009232639.wem + 821720318.wem
 	- ends at 1:02 on 821720318.wem, loops otherwise
 
 
+## Additional Tracks
 
+### What're you waiting for
+- 
+
+### What're you waiting for (Instramental)
+- 
 
 # Character themes
 
@@ -647,3 +658,5 @@ when looking to playback or compile a certain track from the game, you must eith
 - [Track57](#track57---absolution)
 
 - [Track91](#track91---wager-of-the-soul)  
+
+- [What're you waiting for](#what're-you-waiting-for)
