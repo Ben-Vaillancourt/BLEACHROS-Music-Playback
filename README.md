@@ -6,7 +6,7 @@ Repository containing a program used for playback and compilation of the Bleach:
 - [Overview](#overview)
 - [Complete Track list ](#track-list-with-filenames)
 	- [Main Tracklist (1-113)](#main-tracklist)
-	- [additional Tracks not included in games menu](#additional-tracks)
+	- [additional Tracks not included in Sound Gallery](#additional-tracks)
 
 - By Category
 	- [Character themes](#character-themes)
@@ -384,10 +384,7 @@ when looking to playback or compile a certain track from the game, you must eith
 
 ## Additional Tracks
 
-### What're you waiting for
-- 
-
-### What're you waiting for (Instramental)
+### One Shot (Instrumental)
 - 
 
 # Character themes
@@ -653,10 +650,10 @@ when looking to playback or compile a certain track from the game, you must eith
 
 # Vocal
 
-- [Track56](#track56---one-shot) 
+- [One Shot](#track56---one-shot) 
 
-- [Track57](#track57---absolution)
+- [Absolution](#track57---absolution)
 
-- [Track91](#track91---wager-of-the-soul)  
+- [Wager of the Soul](#track91---wager-of-the-soul)  
 
-- [What're you waiting for](#what're-you-waiting-for)
+- [Through the Limit](#track55---through-the-limit)  
