@@ -3,7 +3,7 @@ Repository containing a program used for playback and compilation of the Bleach:
 
 
 # Table of Contents
-- [Overview](overview)
+- [Overview](#overview)
 - [Complete Track list (1-113)](#track-list-with-filenames)
 - By Category
 	- [Character themes](#character-themes)
@@ -352,6 +352,7 @@ when looking to playback or compile a certain track from the game, you must eith
 
 ## Track106 - Options  
 - 119817980.wem + 152460273.wem
+	- cut at 3:54 on 152460273.wem for loop, fades out otherwise
 
 ## Track107 - Chasing Lights  
 - 658051446.wem
@@ -372,7 +373,7 @@ when looking to playback or compile a certain track from the game, you must eith
 - 803451434.wem + 930276299.wem
 
 ## Track113 - Save You 
--  + 1009232639.wem + 821720318.wem
+- 1009232639.wem + 821720318.wem
 	- ends at 1:02 on 821720318.wem, loops otherwise
 
 
