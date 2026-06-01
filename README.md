@@ -1,9 +1,8 @@
 # BLEACHROS-Music-Playback
-Repository containing a program used for playback and compilation of the Bleach: Rebirth of Souls soundtrack using the ingame files as well as a detailed breakdown of the in game tracks and the files used for playback.
+Repository containing a detailed breakdown of the in game tracks and the files used for playback of the Bleach: Rebirth of Souls soundtrack.
 
 
 # Table of Contents
-- [Overview](#overview)
 - [Complete Track list ](#track-list-with-filenames)
 	- [Main Tracklist (1-113)](#main-tracklist)
 	- [additional Tracks not included in Sound Gallery](#additional-tracks)
@@ -15,20 +14,6 @@ Repository containing a program used for playback and compilation of the Bleach:
 	- [Battle](#battle)
 	- [Ambient](#ambient)
 	- [Vocal](#vocal)
-
-# Overview
-
-> __the program requires you own a copy of the game on pc or at the very least have a copy of the wem files as it makes active use of said files for playback/compilation__
-
-> __AS OF 2025/06/09 THIS PROGRAM IS IN THE VERY EARLY STAGES OF DEVELOPMENT, DON'T EXPECT ANYTHING SOON. I am still in the process of cataloging all the songs and their files as can be seen in the track list below__
-
-This program is being designed with 2 goals in mind, 
-    1 - to allow for playback of the games music in an endless loop until prompted otherwise (as like in the ingame audio player) and 
-	2 - to allow the user to compile the song of their choice into usable FLAC, MP3, WAV, OGG, and AAC files, for their own use.
-
-Why bother you may ask, its simple, the in game tracks are seperated into two different files making it easy for playback in game when looping during gameplay but not so easy for you or me to grab them and simply listen to them whenever we want. This program makes it possible to either play the songs without opening the Game or to take those two audio files and create a finished audio file that you then import into your favorite music service and listen to on the go
-
-when looking to playback or compile a certain track from the game, you must either use the designated track name or number, to make this easier you can find below a list of the tracks below broken down by category or simply by track number and name.
 
 
 # Track-list with filenames
