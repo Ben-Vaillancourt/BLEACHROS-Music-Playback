@@ -3,6 +3,10 @@ Repository containing a detailed breakdown of the in game tracks and the files u
 
 
 # Table of Contents
+- [Listen to your .wem files](#listen-to-your-.wem-files)
+	- [Linux](#linux)
+	- [Windows](#windows)
+
 - [Complete Track list ](#track-list-with-filenames)
 	- [Main Tracklist (1-113)](#main-tracklist)
 	- [additional Tracks not included in Sound Gallery](#additional-tracks)
@@ -15,6 +19,23 @@ Repository containing a detailed breakdown of the in game tracks and the files u
 	- [Ambient](#ambient)
 	- [Vocal](#vocal)
 
+# listen to your .wem-files
+## Linux
+pro gamer tip, you can use "lsof +D /home/$USER/.local/share/Steam/steamapps/common/ | grep '\.wem'" to get a readout of recent wem files played by ROS
+
+- install vgmstream
+- type vgmstream123 for a list of available commands
+- use accordingly (i.e. "vgmstream123 "/home/user/.local/share/Steam/steamapps/common/BLEACH Rebirth of Souls/Sound/Media/926345917.wem"")
+
+## Windows
+either:
+- download foobar 2000
+- download the vgmstream decoder pack
+- import your folder containing the files from you steam install of ROS (steamapps/common/BLEACH Rebirth of Souls/Sound)
+  or
+- install vgmstream-cli
+- type vgmstream123 for a list of available commands
+- use accordingly
 
 # Track-list with filenames
 
@@ -187,10 +208,10 @@ Repository containing a detailed breakdown of the in game tracks and the files u
 - 
 
 ### Track56 - One Shot
-- 
+- 345717413.wem + 347127110.wem
 
 ### Track57 - Absolution
-- 
+- 40316948.wem + 926345917.wem
 	- composed by *Takeharu Ishimoto*
 	- performed by *The BONZ*
 
