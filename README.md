@@ -94,19 +94,19 @@ either:
 - 772036938.wem + 769005299.wem
 
 ### Track18 - fuse
-- 
+- 185930302.wem (has cutoff before loop) + 944069851.wem
 
 ### Track19 - Stand at The Top
-- 
+- 8463407.wem (has cutoff before loop) + 599392917.wem
 
 ### Track20 - Scatter, Senbonzakura
-- 
+- 454429028.wem + 849850910.wem
 
 ### Track21 - Path to Devotion
-- 
+- 634261744.wem
 
 ### Track22 - Forbidden Games
-- 
+- 738108767.wem (has cutoff before loop) + 24679249.wem
 
 ### Track23 - Enma Korogi
 - 
@@ -387,6 +387,17 @@ either:
 - 1009232639.wem + 821720318.wem
 	- ends at 1:02 on 821720318.wem, loops otherwise
 
+### Track114 - Edge of Death
+- 
+
+### Track115 - The Monk of True Names
+- 
+
+### Track116 - Thousand-Year Funeral March
+- 
+
+### Track117 - Thousand-Year Despair
+- 
 
 ## Additional Tracks
 
@@ -412,6 +423,9 @@ either:
 
 - **Grimmjow Jaegerjaquez**  
 	- Awakening = [Track34](#track34---king-of-beasts)
+
+- **Ichibe hyosube**  
+  - Awakening = [Track115](#track115---the-monk-of-true-names)
 
 - **Ichigo**  
   - Awakening = [Track1](#track1---glinting-getsuga)  
@@ -455,6 +469,10 @@ either:
 
 - **Renji Abarai**  
 	- Awakening = [Track9](#track9---kneel-before-hihio)
+
+- **Retsu Unohana**  
+	- Awakening = [Track114](#track114---edge-of-death)
+	 
 
 - **Rukia Kuchiki**  
 	- Awakening = [Track10](#track10---shirayuki-in-white)
@@ -500,7 +518,11 @@ either:
 
 - **Yoruichi**  
 	- Awakening = [Track8](#track8---instant-war-cry)
-	
+
+- **yhwach**  
+  - Awakening = [Track116](#track116---thousand-year-funeral-march)
+  - Reawakening = [Track117](#track117---thousand-year-despair)
+
 
 # Opening Movies
 - Opening cinematic = [Track97](#track97---rebirth)  
