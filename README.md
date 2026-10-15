@@ -21,7 +21,7 @@ Repository containing a detailed breakdown of the in game tracks and the files u
 
 # listen to your .wem-files
 ## Linux
-pro gamer tip, you can use "lsof +D /home/$USER/.local/share/Steam/steamapps/common/ | grep '\.wem'" to get a readout of recent wem files played by ROS
+you can use "lsof +D /home/$USER/.local/share/Steam/steamapps/common/ | grep '\.wem'" to get a readout of recent wem files played by ROS
 
 - install vgmstream
 - type vgmstream123 for a list of available commands
