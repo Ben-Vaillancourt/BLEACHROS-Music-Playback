@@ -32,7 +32,7 @@ either:
 - download foobar 2000
 - download the vgmstream decoder pack
 - import your folder containing the files from you steam install of ROS (steamapps/common/BLEACH Rebirth of Souls/Sound)
-  or
+or:
 - install vgmstream-cli
 - type vgmstream123 for a list of available commands
 - use accordingly
@@ -135,10 +135,10 @@ either:
 ### Track31 - La Campanella
 - 
 
-## Track32 - Existence of HEART
+### Track32 - Existence of HEART
 - 
 
-## Track33 - Towering Santa Teresa
+### Track33 - Towering Santa Teresa
 - 
 
 ### Track34 - King of Beasts
